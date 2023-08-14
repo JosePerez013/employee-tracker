@@ -26,3 +26,9 @@ VALUES ('Donald', 'Trump', 1, null),
         ('Riley', 'Freeman', 6, 5),
         ('Bill', 'Nye', 7, null),
         ('John', 'Smith', 8, 7);
+        SELECT *
+FROM department;
+SELECT *
+FROM role;
+SELECT *
+FROM employee;
